@@ -22,7 +22,7 @@ pipeline
         {
             steps 
             {
-                echo 'Deploying the Application'
+                echo 'Deploying the last Application'
             }
         }
     }
